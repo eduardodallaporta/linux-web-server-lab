@@ -46,6 +46,12 @@ linux-web-server-lab/
 5. Teste da comunicação cliente-servidor utilizando:
     curl http://localhost:8000
 
+## Captura de tela
+
+Servidor em execução e validado em ambiente Linux:
+
+![Linux Web Server Running](screenshots/server-running.png)
+
 
 ## Resultado
 
@@ -103,6 +109,11 @@ linux-web-server-lab/
 5. Tested client-server communication using:
     curl http://localhost:8000
 
+## Screenshot
+
+Server running and validated in Linux environment:
+
+![Linux Web Server Running](screenshots/server-running.png)
 
 ## Result
 
