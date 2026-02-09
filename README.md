@@ -26,6 +26,7 @@ O objetivo deste projeto é praticar conceitos fundamentais de Infraestrutura e 
 ## Estrutura do projeto
 
 linux-web-server-lab/
+
 │
 ├── index.html
 ├── README.md
@@ -83,6 +84,7 @@ The goal of this project is to practice fundamental Infrastructure and Linux con
 ## Project Structure
 
 linux-web-server-lab/
+
 │
 ├── index.html
 ├── README.md
